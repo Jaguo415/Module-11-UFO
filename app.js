@@ -1,6 +1,5 @@
 // import the data from data.js
 const tableData = data;
-
 // Reference the HTML table using d3
 var tbody = d3.select("tbody");
 
@@ -35,7 +34,7 @@ function buildTable(data) {
       // Apply `filter` to the table data to only keep the
       // rows where the `datetime` value matches the filter value
       filteredData = filteredData.filter(row => row.datetime === date);
-    }
+    };
   
      // Rebuild the table using the filtered data
     // @NOTE: If no date was entered, then filteredData will
