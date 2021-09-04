@@ -2,8 +2,8 @@
 
 ## Overview
 
-For this Module we are building our HTML Webpage. We will be using JS, CSS, HTML to build this web app. During the module we set up our initial web app, added color,set themes and text style.
-continuing from the module,  Our challenge is to add 4 additional custom filters into this webpage to filter our data on the webpage. All filters must work by correctly coding them into our app.js for our challenge. 
+For this Module we are building our HTML Webpage. We will be using JS, CSS, HTML to build this web app. During the module we set up our initial web app, adding text color,page themes and style.
+Continuing directly from the module 11,  Our challenge is to add 4 additional custom filters into this webpage to filter our data on the webpage. All filters must work to pass this challenge as our users can have full interactaction with our new web page. 
 
 
 
@@ -16,7 +16,8 @@ continuing from the module,  Our challenge is to add 4 additional custom filters
 ### Outcome: All 5 Filters added for challenge
 
 <img width="1042" alt="Screen Shot 2021-09-03 at 7 34 20 PM" src="https://user-images.githubusercontent.com/83923903/132079705-3087124d-7cf0-4de7-b2be-1b4c30de42dc.png">
-### Testing all 5 Filters from our challenge
+
+### Test/Check all 5 Filters
 
 <img width="1101" alt="Screen Shot 2021-09-03 at 7 34 39 PM" src="https://user-images.githubusercontent.com/83923903/132079781-182dcabe-aaf4-4305-8269-9a50e9c760bc.png">
 
